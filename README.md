@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Adam 👋
+
+I'm a senior developer specialising in aspnet core and c#.
+
+### 📙 Latest Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 
 <!--
 **WestDiscGolf/WestDiscGolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
