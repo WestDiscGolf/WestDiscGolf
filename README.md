@@ -4,6 +4,16 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Using Dotnet CLI To Setup ASP.NET CORE Solution And Run With Tye](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-dotnet-cli-to-setup-aspnetcore-solution-and-run-with-tye)
+#### [Nullable Maths Readability](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;nullable-maths-readability)
+#### [Autofixture Generate Specific Format Values By Extending AutoDataAttribute](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-generate-specific-format-values-by-extending-autodataattribute)
+#### [Autofixture Generate Specific Format with Specimen Builders](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-generate-specific-format-with-specimen-builders)
+#### [Returning Different Values From A Method Call](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;returning-different-values-from-a-method-call)
+#### [Why I love Resharper 2](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;why-i-love-resharper-2)
+#### [Becoming a Remote Worker - Month 4](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-4)
+#### [Thoughts About Test Driven Development](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;thoughts-about-test-driven-development)
+#### [Becoming a Remote Worker - Week 16](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-week-16)
+#### [Optional Dependencies with Autofac](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;optional-dependencies-with-autofac)
 <!--END_SECTION:feed-->
 
 
