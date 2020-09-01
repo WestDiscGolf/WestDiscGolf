@@ -15,4 +15,4 @@ jobs:
           feed-url: https://adamstorr.azurewebsites.net/feed.rss
           readme-section: feed
           max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          template: "#### {{ pubDate }} [{{ title }}]({{ link }})" # \n*{{ contentSnippet }}*\n\n"
