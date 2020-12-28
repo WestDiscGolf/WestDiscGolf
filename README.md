@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Becoming a Remote Worker - Month 9+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-9-plus)
 #### [Lightning Talk on AutoFixture at dotNetOxford Nov 2020](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-autofixture-at-dotnetoxford-nov-2020)
 #### [Integration Testing with ASP.NET Core 3.1 - Set Default Headers for All Clients](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;integration-testing-with-aspnetcore-3-1-set-default-headers-for-all-clients)
 #### [Becoming a Remote Worker - Month 6](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-6)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Nullable Maths Readability](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;nullable-maths-readability)
 #### [Autofixture Generate Specific Format Values By Extending AutoDataAttribute](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-generate-specific-format-values-by-extending-autodataattribute)
 #### [Autofixture Generate Specific Format with Specimen Builders](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-generate-specific-format-with-specimen-builders)
-#### [Returning Different Values From A Method Call](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;returning-different-values-from-a-method-call)
 <!--END_SECTION:feed-->
 
 
