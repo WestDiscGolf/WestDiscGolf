@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Create Anonymous Data Object With AutoFixture From Type](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;create-anonymous-data-object-with-autofixture-from-type)
 #### [Arrange, Act, Assert - Why I Still Comment Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;arrange-act-assert-why-i-still-comment-unit-tests)
 #### [AutoFixture and .NET 5.0 Record Types](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-and-net5.0-record-types)
 #### [Debugging Dependency Injection Service Registrations in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;debugging-dependency-injection-service-registrations-in-net5.0)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Integration Testing with ASP.NET Core 3.1 - Set Default Headers for All Clients](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;integration-testing-with-aspnetcore-3-1-set-default-headers-for-all-clients)
 #### [Becoming a Remote Worker - Month 6](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-6)
 #### [Using Project Tye to Run .NET Worker Services](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-project-tye-to-run-dotnet-worker-services)
-#### [Using Project Tye to Run Dependent Services for use with ASP.NET Core](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-project-tye-to-run-dependent-services-for-use-with-aspnetcore)
 <!--END_SECTION:feed-->
 
 
