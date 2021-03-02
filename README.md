@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Subscription is not registered to use namespace Microsoft.AzureActiveDirectory](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;subscription-is-not-registered-to-use-namespace-Microsoft.AzureActiveDirectory)
 #### [Default .NET 5.0 WeatherForecastController as an Azure Function](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;default-net5.0-weatherforecastcontroller-as-an-azure-function)
 #### [Controlling The Logging Levels in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;controlling-the-logging-levels-in-azure-functions)
 #### [How I Approach New Codebases](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;how-i-approach-new-codebases)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Debugging Dependency Injection Service Registrations in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;debugging-dependency-injection-service-registrations-in-net5.0)
 #### [Top Level Statements and Dependency Injection in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;top-level-statements-and-dependency-injection-in-net5.0)
 #### [Becoming a Remote Worker - Month 9+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-9-plus)
-#### [Lightning Talk on AutoFixture at dotNetOxford Nov 2020](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-autofixture-at-dotnetoxford-nov-2020)
 <!--END_SECTION:feed-->
 
 
