@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Becoming a Remote Worker - 1 Year](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-1-year)
 #### [Generating Date of Birth values for .NET5.0 Record types using AutoFixture](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;generating-date-of-birth-values-for-net5.0-record-types-using-autofixture)
 #### [Subscription is not registered to use namespace Microsoft.AzureActiveDirectory](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;subscription-is-not-registered-to-use-namespace-Microsoft.AzureActiveDirectory)
 #### [Default .NET 5.0 WeatherForecastController as an Azure Function](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;default-net5.0-weatherforecastcontroller-as-an-azure-function)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Arrange, Act, Assert - Why I Still Comment Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;arrange-act-assert-why-i-still-comment-unit-tests)
 #### [AutoFixture and .NET 5.0 Record Types](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-and-net5.0-record-types)
 #### [Debugging Dependency Injection Service Registrations in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;debugging-dependency-injection-service-registrations-in-net5.0)
-#### [Top Level Statements and Dependency Injection in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;top-level-statements-and-dependency-injection-in-net5.0)
 <!--END_SECTION:feed-->
 
 
