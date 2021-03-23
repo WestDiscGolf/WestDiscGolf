@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Harness Azure CLI to Keep Your App Service Name](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;harness-azure-cli-to-keep-your-app-service-name)
 #### [Becoming a Remote Worker - 1 Year](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-1-year)
 #### [Generating Date of Birth values for .NET5.0 Record types using AutoFixture](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;generating-date-of-birth-values-for-net5.0-record-types-using-autofixture)
 #### [Subscription is not registered to use namespace Microsoft.AzureActiveDirectory](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;subscription-is-not-registered-to-use-namespace-Microsoft.AzureActiveDirectory)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Create Anonymous Data Object With AutoFixture From Type](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;create-anonymous-data-object-with-autofixture-from-type)
 #### [Arrange, Act, Assert - Why I Still Comment Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;arrange-act-assert-why-i-still-comment-unit-tests)
 #### [AutoFixture and .NET 5.0 Record Types](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;autofixture-and-net5.0-record-types)
-#### [Debugging Dependency Injection Service Registrations in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;debugging-dependency-injection-service-registrations-in-net5.0)
 <!--END_SECTION:feed-->
 
 
