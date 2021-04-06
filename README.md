@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Azure Functions Not Loading My Dependencies, What Have I Missed?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-not-loading-my-dependencies-what-have-i-missed)
 #### [Why won&#39;t you load my configuration Azure Functions?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;why-wont-you-load-my-configuration-azure-functions)
 #### [Harness Azure CLI to Keep Your App Service Name](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;harness-azure-cli-to-keep-your-app-service-name)
 #### [Becoming a Remote Worker - 1 Year](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-1-year)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Controlling The Logging Levels in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;controlling-the-logging-levels-in-azure-functions)
 #### [How I Approach New Codebases](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;how-i-approach-new-codebases)
 #### [Create Anonymous Data Object With AutoFixture From Type](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;create-anonymous-data-object-with-autofixture-from-type)
-#### [Arrange, Act, Assert - Why I Still Comment Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;arrange-act-assert-why-i-still-comment-unit-tests)
 <!--END_SECTION:feed-->
 
 
