@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Easily Create and Manipulate Mock Anonymous Data for Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;easily-create-and-manipulate-mock-anonymous-data-for-unit-tests)
 #### [Removing IOptions From Your Strongly Typed Configuration in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;removing-ioptions-from-your-strongly-typed-configuration-in-azure-functions)
 #### [Azure Functions Not Loading My Dependencies, What Have I Missed?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-not-loading-my-dependencies-what-have-i-missed)
 #### [Why won&#39;t you load my configuration Azure Functions?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;why-wont-you-load-my-configuration-azure-functions)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Subscription is not registered to use namespace Microsoft.AzureActiveDirectory](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;subscription-is-not-registered-to-use-namespace-Microsoft.AzureActiveDirectory)
 #### [Default .NET 5.0 WeatherForecastController as an Azure Function](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;default-net5.0-weatherforecastcontroller-as-an-azure-function)
 #### [Controlling The Logging Levels in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;controlling-the-logging-levels-in-azure-functions)
-#### [How I Approach New Codebases](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;how-i-approach-new-codebases)
 <!--END_SECTION:feed-->
 
 
