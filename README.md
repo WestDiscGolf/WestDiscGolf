@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Lightning Talk on HttpClient Interception by Just Eat at dotnetOxford Apr 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-httpclient-interception-by-just-eat-at-dotnetoxford-apr-2021)
 #### [Easily Create and Manipulate Mock Anonymous Data for Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;easily-create-and-manipulate-mock-anonymous-data-for-unit-tests)
 #### [Removing IOptions From Your Strongly Typed Configuration in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;removing-ioptions-from-your-strongly-typed-configuration-in-azure-functions)
 #### [Azure Functions Not Loading My Dependencies, What Have I Missed?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-not-loading-my-dependencies-what-have-i-missed)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Generating Date of Birth values for .NET5.0 Record types using AutoFixture](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;generating-date-of-birth-values-for-net5.0-record-types-using-autofixture)
 #### [Subscription is not registered to use namespace Microsoft.AzureActiveDirectory](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;subscription-is-not-registered-to-use-namespace-Microsoft.AzureActiveDirectory)
 #### [Default .NET 5.0 WeatherForecastController as an Azure Function](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;default-net5.0-weatherforecastcontroller-as-an-azure-function)
-#### [Controlling The Logging Levels in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;controlling-the-logging-levels-in-azure-functions)
 <!--END_SECTION:feed-->
 
 
