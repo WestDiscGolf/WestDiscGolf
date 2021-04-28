@@ -4,7 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
-#### [Lightning Talk on HttpClient Interception by Just Eat at dotnetOxford Apr 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-httpclient-interception-by-just-eat-at-dotnetoxford-apr-2021)
+#### [Lightning Talk on HttpClient Interception by Just Eat at .NET Oxford Apr 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-httpclient-interception-by-just-eat-at-dotnetoxford-apr-2021)
 #### [Easily Create and Manipulate Mock Anonymous Data for Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;easily-create-and-manipulate-mock-anonymous-data-for-unit-tests)
 #### [Removing IOptions From Your Strongly Typed Configuration in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;removing-ioptions-from-your-strongly-typed-configuration-in-azure-functions)
 #### [Azure Functions Not Loading My Dependencies, What Have I Missed?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-not-loading-my-dependencies-what-have-i-missed)
