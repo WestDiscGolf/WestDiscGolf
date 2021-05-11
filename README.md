@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Catching all the Requests while Testing with HttpClient](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;catching-all-the-requests-while-testing-with-httpclient)
 #### [Beginning to Make Testing with HttpClient Easier](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;beginning-to-make-testing-with-httpclient-easier)
 #### [Lightning Talk on HttpClient Interception by Just Eat at .NET Oxford Apr 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-httpclient-interception-by-just-eat-at-dotnetoxford-apr-2021)
 #### [Easily Create and Manipulate Mock Anonymous Data for Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;easily-create-and-manipulate-mock-anonymous-data-for-unit-tests)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Harness Azure CLI to Keep Your App Service Name](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;harness-azure-cli-to-keep-your-app-service-name)
 #### [Becoming a Remote Worker - 1 Year](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-1-year)
 #### [Generating Date of Birth values for .NET5.0 Record types using AutoFixture](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;generating-date-of-birth-values-for-net5.0-record-types-using-autofixture)
-#### [Subscription is not registered to use namespace Microsoft.AzureActiveDirectory](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;subscription-is-not-registered-to-use-namespace-Microsoft.AzureActiveDirectory)
 <!--END_SECTION:feed-->
 
 
