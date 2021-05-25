@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Simple Example of Calling REST API with HttpClient in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;simple-example-of-calling-rest-api-with-httpclient-in-net5.0)
 #### [Defining HttpClient Test Requests by Using a Bundle](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;defining-httpclient-test-requests-by-using-a-bundle)
 #### [Catching all the Requests while Testing with HttpClient](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;catching-all-the-requests-while-testing-with-httpclient)
 #### [Beginning to Make Testing with HttpClient Easier](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;beginning-to-make-testing-with-httpclient-easier)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Azure Functions Not Loading My Dependencies, What Have I Missed?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-not-loading-my-dependencies-what-have-i-missed)
 #### [Why won&#39;t you load my configuration Azure Functions?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;why-wont-you-load-my-configuration-azure-functions)
 #### [Harness Azure CLI to Keep Your App Service Name](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;harness-azure-cli-to-keep-your-app-service-name)
-#### [Becoming a Remote Worker - 1 Year](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-1-year)
 <!--END_SECTION:feed-->
 
 
