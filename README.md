@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Setting Content for HttpClient Testing with JSON.NET and System.Text.Json](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;setting-content-for-httpclient-testing-with-json.net-and-system.text.json)
 #### [Extending HttpClient Testing With Templating](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;extending-httpclient-testing-with-templating)
 #### [Quick Tip - Compiler Directives and Using Aliases to Ignore Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;quick-tip-compiler-directives-and-using-aliases-to-ignore-tests)
 #### [Simple Example of Calling REST API with HttpClient in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;simple-example-of-calling-rest-api-with-httpclient-in-net5.0)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Lightning Talk on HttpClient Interception by Just Eat at .NET Oxford Apr 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-httpclient-interception-by-just-eat-at-dotnetoxford-apr-2021)
 #### [Easily Create and Manipulate Mock Anonymous Data for Unit Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;easily-create-and-manipulate-mock-anonymous-data-for-unit-tests)
 #### [Removing IOptions From Your Strongly Typed Configuration in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;removing-ioptions-from-your-strongly-typed-configuration-in-azure-functions)
-#### [Azure Functions Not Loading My Dependencies, What Have I Missed?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-not-loading-my-dependencies-what-have-i-missed)
 <!--END_SECTION:feed-->
 
 
