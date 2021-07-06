@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Thoughts and Musings of a Standing Desk 1 Month On](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;thoughts-and-musings-of-a-standing-desk-1-month-on)
 #### [Test Your .NET HttpClient Based Strongly Typed Clients Like a Boss](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;test-your-dotnet-httpclient-based-strongly-typed-clients-like-a-boss)
 #### [Default Your FirstOrDefault in .NET 6.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;default-your-firstordefault-in-net6.0)
 #### [Setting Content for HttpClient Testing with JSON.NET and System.Text.Json](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;setting-content-for-httpclient-testing-with-json.net-and-system.text.json)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Defining HttpClient Test Requests by Using a Bundle](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;defining-httpclient-test-requests-by-using-a-bundle)
 #### [Catching all the Requests while Testing with HttpClient](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;catching-all-the-requests-while-testing-with-httpclient)
 #### [Beginning to Make Testing with HttpClient Easier](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;beginning-to-make-testing-with-httpclient-easier)
-#### [Lightning Talk on HttpClient Interception by Just Eat at .NET Oxford Apr 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;lightning-talk-on-httpclient-interception-by-just-eat-at-dotnetoxford-apr-2021)
 <!--END_SECTION:feed-->
 
 
