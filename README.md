@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Azure Functions CLI Failing After Preview Install](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-cli-failing-after-preview-install)
 #### [Getting Started with Twitter API using SocialOpinion](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;getting-started-with-twitter-api-using-socialopinion)
 #### [Target Typed New Expressions in C# 9 - Are They The Future? Part 2](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;target-typed-new-expressions-in-csharp-9-are-they-the-future-part-2)
 #### [Target Typed New Expressions in C# 9 - Are They The Future?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;target-typed-new-expressions-in-csharp-9-are-they-the-future)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Setting Content for HttpClient Testing with JSON.NET and System.Text.Json](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;setting-content-for-httpclient-testing-with-json.net-and-system.text.json)
 #### [Extending HttpClient Testing With Templating](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;extending-httpclient-testing-with-templating)
 #### [Quick Tip - Compiler Directives and Using Aliases to Ignore Tests](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;quick-tip-compiler-directives-and-using-aliases-to-ignore-tests)
-#### [Simple Example of Calling REST API with HttpClient in .NET 5.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;simple-example-of-calling-rest-api-with-httpclient-in-net5.0)
 <!--END_SECTION:feed-->
 
 
