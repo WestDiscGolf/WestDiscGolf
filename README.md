@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Ambiguous match found in Azure Functions project](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;ambiguous-match-found-in-azure-functions-project)
 #### [Razor Pages Scaffolding Submit with Error 400](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;razor-pages-scaffolding-submit-with-error-400)
 #### [Azure Functions CLI Failing After Preview Install](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-cli-failing-after-preview-install)
 #### [Getting Started with Twitter API using SocialOpinion](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;getting-started-with-twitter-api-using-socialopinion)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Test Your .NET HttpClient Based Strongly Typed Clients Like a Boss](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;test-your-dotnet-httpclient-based-strongly-typed-clients-like-a-boss)
 #### [Default Your FirstOrDefault in .NET 6.0](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;default-your-firstordefault-in-net6.0)
 #### [Setting Content for HttpClient Testing with JSON.NET and System.Text.Json](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;setting-content-for-httpclient-testing-with-json.net-and-system.text.json)
-#### [Extending HttpClient Testing With Templating](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;extending-httpclient-testing-with-templating)
 <!--END_SECTION:feed-->
 
 
