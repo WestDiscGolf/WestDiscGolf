@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Is Accessing Querystring Values in Azure Functions Hard?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-accessing-querystring-values-in-azure-functions-hard)
 #### [Becoming a Remote Worker - Month 18+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-18-plus)
 #### [Separate the Metadata Noise from the Implementation in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;separate-the-metadata-noise-from-the-implementation-in-azure-functions)
 #### [Minimal Api in .NET 6 Out Of Process Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;minimal-api-in-net6.0-out-of-process-azure-functions)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Razor Pages Scaffolding Submit with Error 400](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;razor-pages-scaffolding-submit-with-error-400)
 #### [Azure Functions CLI Failing After Preview Install](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-cli-failing-after-preview-install)
 #### [Getting Started with Twitter API using SocialOpinion](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;getting-started-with-twitter-api-using-socialopinion)
-#### [Target Typed New Expressions in C# 9 - Are They The Future? Part 2](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;target-typed-new-expressions-in-csharp-9-are-they-the-future-part-2)
 <!--END_SECTION:feed-->
 
 
