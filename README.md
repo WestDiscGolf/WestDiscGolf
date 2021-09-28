@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Dev Tips - Creating Unique Identifiers](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-creating-unique-identifiers)
 #### [Is Accessing Querystring Values in Azure Functions Hard?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-accessing-querystring-values-in-azure-functions-hard)
 #### [Becoming a Remote Worker - Month 18+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-18-plus)
 #### [Separate the Metadata Noise from the Implementation in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;separate-the-metadata-noise-from-the-implementation-in-azure-functions)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Ambiguous match found in Azure Functions project](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;ambiguous-match-found-in-azure-functions-project)
 #### [Razor Pages Scaffolding Submit with Error 400](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;razor-pages-scaffolding-submit-with-error-400)
 #### [Azure Functions CLI Failing After Preview Install](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;azure-functions-cli-failing-after-preview-install)
-#### [Getting Started with Twitter API using SocialOpinion](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;getting-started-with-twitter-api-using-socialopinion)
 <!--END_SECTION:feed-->
 
 
