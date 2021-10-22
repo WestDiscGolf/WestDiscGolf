@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Dev Tips - Why Soduku can improve your Debugging](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-why-soduku-can-improve-your-debugging)
 #### [Dev Tips - Stand Up for Stand Up](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-stand-up-for-stand-up)
 #### [Dev Tips - Launching Urls in Different Browsers with Browser Launcher](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-launching-urls-in-different-browsers-with-browser-launcher)
 #### [Dev Tips - Creating Unique Identifiers](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-creating-unique-identifiers)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Minimal Api in .NET 6 Out Of Process Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;minimal-api-in-net6.0-out-of-process-azure-functions)
 #### [When is not null not null but checking not null in .NET 6](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;when-is-not-null-not-null-but-checking-not-null-in-net6.0)
 #### [Is Dependency Injection Into a Custom Exception a Good Idea?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-dependency-injection-into-a-custom-exception-a-good-idea)
-#### [Ambiguous match found in Azure Functions project](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;ambiguous-match-found-in-azure-functions-project)
 <!--END_SECTION:feed-->
 
 
