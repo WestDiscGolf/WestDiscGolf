@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Dev Tips - Multiple Versions Of Visual Studio Can Be Installed Side By Side](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-multiple-versions-of-visual-vtudio-can-be-installed-side-by-side)
 #### [Dev Tips - Why Soduku can improve your Debugging](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-why-soduku-can-improve-your-debugging)
 #### [Dev Tips - Stand Up for Stand Up](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-stand-up-for-stand-up)
 #### [Dev Tips - Launching Urls in Different Browsers with Browser Launcher](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-launching-urls-in-different-browsers-with-browser-launcher)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Separate the Metadata Noise from the Implementation in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;separate-the-metadata-noise-from-the-implementation-in-azure-functions)
 #### [Minimal Api in .NET 6 Out Of Process Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;minimal-api-in-net6.0-out-of-process-azure-functions)
 #### [When is not null not null but checking not null in .NET 6](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;when-is-not-null-not-null-but-checking-not-null-in-net6.0)
-#### [Is Dependency Injection Into a Custom Exception a Good Idea?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-dependency-injection-into-a-custom-exception-a-good-idea)
 <!--END_SECTION:feed-->
 
 
