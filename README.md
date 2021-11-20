@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Using AutoFac Keyed Dependencies with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-keyed-dependencies-with-net6.0-isolated-azure-functions)
 #### [Using AutoFac with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-with-net6.0-isolated-azure-functions)
 #### [Using Azure Functions Middleware to Access ClaimsPrincipal in Azure Static Web Apps](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-azure-functions-middleware-to-access-claimsprincipal-in-azure-static-web-apps)
 #### [Dev Tips - Multiple Versions Of Visual Studio Can Be Installed Side By Side](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-multiple-versions-of-visual-vtudio-can-be-installed-side-by-side)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Dev Tips - Creating Unique Identifiers](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-creating-unique-identifiers)
 #### [Is Accessing Querystring Values in Azure Functions Hard?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-accessing-querystring-values-in-azure-functions-hard)
 #### [Becoming a Remote Worker - Month 18+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-18-plus)
-#### [Separate the Metadata Noise from the Implementation in Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;separate-the-metadata-noise-from-the-implementation-in-azure-functions)
 <!--END_SECTION:feed-->
 
 
