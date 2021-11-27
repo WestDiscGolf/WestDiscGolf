@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Using AutoFac Keyed Dependencies Directly in .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-keyed-dependencies-directly-in-net6.0-isolated-azure-functions)
 #### [Using AutoFac Keyed Dependencies with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-keyed-dependencies-with-net6.0-isolated-azure-functions)
 #### [Using AutoFac with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-with-net6.0-isolated-azure-functions)
 #### [Using Azure Functions Middleware to Access ClaimsPrincipal in Azure Static Web Apps](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-azure-functions-middleware-to-access-claimsprincipal-in-azure-static-web-apps)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Dev Tips - Launching Urls in Different Browsers with Browser Launcher](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-launching-urls-in-different-browsers-with-browser-launcher)
 #### [Dev Tips - Creating Unique Identifiers](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-creating-unique-identifiers)
 #### [Is Accessing Querystring Values in Azure Functions Hard?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-accessing-querystring-values-in-azure-functions-hard)
-#### [Becoming a Remote Worker - Month 18+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-18-plus)
 <!--END_SECTION:feed-->
 
 
