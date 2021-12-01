@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Runtime Dependency Resolution Using AutoFac in .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;runtime-dependency-resolution-using-autofac-in-net6.0-isolated-azure-functions)
 #### [Using AutoFac Keyed Dependencies Directly in .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-keyed-dependencies-directly-in-net6.0-isolated-azure-functions)
 #### [Using AutoFac Keyed Dependencies with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-keyed-dependencies-with-net6.0-isolated-azure-functions)
 #### [Using AutoFac with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-with-net6.0-isolated-azure-functions)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Dev Tips - Stand Up for Stand Up](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-stand-up-for-stand-up)
 #### [Dev Tips - Launching Urls in Different Browsers with Browser Launcher](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-launching-urls-in-different-browsers-with-browser-launcher)
 #### [Dev Tips - Creating Unique Identifiers](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-creating-unique-identifiers)
-#### [Is Accessing Querystring Values in Azure Functions Hard?](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;is-accessing-querystring-values-in-azure-functions-hard)
 <!--END_SECTION:feed-->
 
 
