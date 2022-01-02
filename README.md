@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [End of Year Review 2021](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;end-of-year-review-2021)
 #### [Becoming a Remote Worker - Month 21+](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;becoming-a-remote-worker-month-21-plus)
 #### [Deploying an Azure Static Web App with Pulumi as a Beginner](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;deploying-an-azure-static-web-app-with-pulumi-as-a-beginner)
 #### [Why I love Resharper 3](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;why-i-love-resharper-3)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Using AutoFac with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-autofac-with-net6.0-isolated-azure-functions)
 #### [Using Azure Functions Middleware to Access ClaimsPrincipal in Azure Static Web Apps](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;using-azure-functions-middleware-to-access-claimsprincipal-in-azure-static-web-apps)
 #### [Dev Tips - Multiple Versions Of Visual Studio Can Be Installed Side By Side](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-multiple-versions-of-visual-vtudio-can-be-installed-side-by-side)
-#### [Dev Tips - Why Soduku can improve your Debugging](http:&#x2F;&#x2F;adamstorr.azurewebsites.net&#x2F;blog&#x2F;dev-tips-why-soduku-can-improve-your-debugging)
 <!--END_SECTION:feed-->
 
 
