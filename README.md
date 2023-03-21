@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Becoming a Remote Worker - 3 years](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;becoming-a-remote-worker-3-years)
 #### [Conditional Middleware in Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;conditional-middleware-in-isolated-azure-functions)
 #### [End of Year Review 2021](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;end-of-year-review-2021)
 #### [Becoming a Remote Worker - Month 21+](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;becoming-a-remote-worker-month-21-plus)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Using AutoFac Keyed Dependencies Directly in .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-autofac-keyed-dependencies-directly-in-net6.0-isolated-azure-functions)
 #### [Using AutoFac Keyed Dependencies with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-autofac-keyed-dependencies-with-net6.0-isolated-azure-functions)
 #### [Using AutoFac with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-autofac-with-net6.0-isolated-azure-functions)
-#### [Using Azure Functions Middleware to Access ClaimsPrincipal in Azure Static Web Apps](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-azure-functions-middleware-to-access-claimsprincipal-in-azure-static-web-apps)
 <!--END_SECTION:feed-->
 
 
