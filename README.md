@@ -4,6 +4,7 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Work Smarter Not Harder With Your Time Management Logging](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;work-smarter-not-harder-with-your-time-management-logging)
 #### [Becoming a Remote Worker - 3 years](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;becoming-a-remote-worker-3-years)
 #### [Conditional Middleware in Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;conditional-middleware-in-isolated-azure-functions)
 #### [End of Year Review 2021](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;end-of-year-review-2021)
@@ -13,7 +14,6 @@ I'm a senior developer specialising in aspnet core and c#.
 #### [Runtime Dependency Resolution Using AutoFac in .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;runtime-dependency-resolution-using-autofac-in-net6.0-isolated-azure-functions)
 #### [Using AutoFac Keyed Dependencies Directly in .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-autofac-keyed-dependencies-directly-in-net6.0-isolated-azure-functions)
 #### [Using AutoFac Keyed Dependencies with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-autofac-keyed-dependencies-with-net6.0-isolated-azure-functions)
-#### [Using AutoFac with .NET 6 Isolated Azure Functions](http:&#x2F;&#x2F;www.adamstorr.co.uk&#x2F;blog&#x2F;using-autofac-with-net6.0-isolated-azure-functions)
 <!--END_SECTION:feed-->
 
 
