@@ -4,11 +4,11 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Don&#39;t Do This With Extension Methods](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;dont-do-this-with-extension-methods&#x2F;)
 #### [Primary Constructor and Logging Don&#39;t Mix](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;primary-constructor-and-logging-dont-mix&#x2F;)
 #### [Why does git have to be so hard?](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;why-does-git-have-to-be-so-hard&#x2F;)
 #### [Work Smarter Not Harder With Your Time Management Logging](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;work-smarter-not-harder-with-your-time-management-logging&#x2F;)
 #### [Becoming a Remote Worker - 3 years](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;becoming-a-remote-worker-3-years&#x2F;)
-#### [Conditional Middleware in Isolated Azure Functions](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;conditional-middleware-in-isolated-azure-functions&#x2F;)
 <!--END_SECTION:feed-->
 
 
