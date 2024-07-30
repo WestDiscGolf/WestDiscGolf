@@ -4,11 +4,11 @@ I'm a senior developer specialising in aspnet core and c#.
 
 ### 📙 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [My Love Hate Relationship With Pattern Matching](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;my-love-hate-relationship-with-pattern-matching&#x2F;)
 #### [Is Your ASP.NET Core Application Running In A Container?](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;is-your-aspnet-core-application-running-in-a-container&#x2F;)
 #### [Stop Using Regex for Connection Strings](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;stop-using-regex-for-updating-connection-strings&#x2F;)
 #### [Don&#39;t Do This With Extension Methods](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;dont-do-this-with-extension-methods&#x2F;)
 #### [Primary Constructor and Logging Don&#39;t Mix](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;primary-constructor-and-logging-dont-mix&#x2F;)
-#### [Why does git have to be so hard?](https:&#x2F;&#x2F;adamstorr.co.uk&#x2F;blog&#x2F;why-does-git-have-to-be-so-hard&#x2F;)
 <!--END_SECTION:feed-->
 
 
